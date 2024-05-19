@@ -1,0 +1,52 @@
+.simonp{
+    text-align: center;
+}
+.box{
+    /* border: 5px solid black; */
+    display: flex;
+    justify-content: center;
+    /* margin: 10rem; */
+}
+.box1{
+    background-color: #003C43;
+    border-radius: 9px;
+}
+.box2{
+    background-color: #135D66;
+    border-radius: 9px;
+}
+.box3{
+    background-color: #B3C8CF;
+    border-radius: 9px;
+}
+.box4{
+    background-color: #795458;
+    border-radius: 9px;
+}
+.boxf{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    width: 100px;
+    gap: 50px;
+}
+.boxs{
+    
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    width: 100px;
+    gap: 50px;
+}
+.box-content{
+    margin: 1.1rem;
+}
+
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
